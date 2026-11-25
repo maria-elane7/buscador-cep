@@ -6,6 +6,8 @@ Este projeto foi desenvolvido para praticar JavaScript e o consumo de APIs.
 
 Ao sair do campo **CEP**, o sistema verifica se o valor possui oito dígitos numéricos. Se estiver válido, consulta o endereço na API e informa o logradouro, bairro, cidade e estado nos campos correspondentes.
 
+## Link do projeto: https://maria-elane7.github.io/buscador-cep/
+
 ## Funcionalidades
 
 - Consulta de CEP pela API ViaCEP
